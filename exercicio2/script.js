@@ -21,3 +21,16 @@ switch (nacionalidade) {
     default:
         console.log(mensagemNegativa);
 }
+
+// também funciona:
+// switch (nacionalidade) {
+//     case 'brasileira':
+//     case 'argentina':
+//     case 'uruguaia':
+//     case 'chilena':
+//     case 'colombiana':
+//     console.log(mensagemPositiva);
+//     break;
+//     default:
+//         console.log(mensagemNegativa);
+// }

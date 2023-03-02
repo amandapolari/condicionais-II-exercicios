@@ -14,8 +14,8 @@ if (num % 2 !== 0) {
 }
 
 // if com operador lógico:
-if (num % 2 === 0 || num % 3 === 0) {
-    console.log(msgPositiva);
-} else {
-    console.log(msgNegativa);
-}
+// if (num % 2 === 0 || num % 3 === 0) {
+//     console.log(msgPositiva);
+// } else {
+//     console.log(msgNegativa);
+// }

@@ -19,3 +19,14 @@ if (num % 2 !== 0) {
 // } else {
 //     console.log(msgNegativa);
 // }
+
+// if com aninhamento de outra forma
+// if (!(num % 2 === 0)) {
+//     if (!(num % 3 === 0)) {
+//         console.log(msgNegativa);
+//     } else {
+//         console.log(msgPositiva);
+//     }
+// } else {
+//     console.log(msgPositiva);
+// }

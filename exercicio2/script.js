@@ -24,11 +24,11 @@ switch (nacionalidade) {
 
 // também funciona:
 // switch (nacionalidade) {
-//     case 'brasileira':
-//     case 'argentina':
-//     case 'uruguaia':
-//     case 'chilena':
-//     case 'colombiana':
+//     case 'brasileira','brasileiro':
+//     case 'argentina','argentino':
+//     case 'uruguaia','uruguaio':
+//     case 'chilena','chileno':
+//     case 'colombiana','colombiano':
 //     console.log(mensagemPositiva);
 //     break;
 //     default:
